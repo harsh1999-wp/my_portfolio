@@ -12,7 +12,7 @@ export const AboutmeSection = () => {
                     <div className="space-y-10">
                         <h3 className=" text-white text-2xl font-semibold">Web Developer and ML Enthasiast</h3>
 
-                        <p classname= "text-primary  font-semibold">
+                        <p classname= "text-white font-semibold">
                             I have two years of experience in the technology domain, with a strong foundation in web development, backend engineering, and machine learning. My background includes building and optimizing web applications, developing robust backend services, creating and training machine learning models, and deploying end-to-end solutions. I am proficient in working across the full development lifecycle—from designing system architectures and implementing features to deploying scalable, high-performance applications in production environments.
                         </p>
 
@@ -24,7 +24,7 @@ export const AboutmeSection = () => {
 
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-                            <a href="#contact " className="cos  mic-button">
+                            <a href="#contact " className="cosmic-button">
                                 {" "}
                                 Get In Touch 
                             </a>
@@ -72,6 +72,9 @@ export const AboutmeSection = () => {
                                     <p className="text-white "></p>
                                 </div>
                             </div>
+                        </div>
+                        <div className="bg-card p-8 rounded-lg shadow-xs">
+                            <h3 className="text-2xl font-semibold m-6"> Send a Message</h3>
                         </div>
                     </div>
                 </div>
