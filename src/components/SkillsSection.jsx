@@ -12,12 +12,20 @@ const skills = [
   { name: "Dart", level: 80, category: "programming-language" },
   { name: "Python", level: 90, category: "programming-language" },
 
+  //Framework
+  { name: "Spring Boot", level: 88, category: "Framework" },
+  { name: "React", level: 85, category: "Framework" },
+  { name: "LangChain", level: 80, category: "Framework" },
+  { name: "Angular", level: 90, category: "Framework" },
+
   // Databases
   { name: "MongoDB Atlas", level: 88, category: "database" },
   { name: "Firebase", level: 85, category: "database" },
   { name: "AWS RDS SQL", level: 80, category: "database" },
   { name: "NoSQL", level: 85, category: "database" },
   { name: "Amazon DynamoDB", level: 82, category: "database" },
+  { name: "MySql", level: 82, category: "database" },
+  { name: "Postgres", level: 82, category: "database" },
 
   // APIs & Hosting
   { name: "Google Maps API", level: 80, category: "api-hosting" },
