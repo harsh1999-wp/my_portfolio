@@ -28,6 +28,15 @@ const Projects =[
         demoUrl :"#",
         githubUrl:"#",
     },
+    {
+        id:4,
+        title:"School-Management-App",
+        description:"Medical chatbot build using flutter",
+        image: "/Projects/medicalchatbot.png",
+        tags:["flutter" , "Spring-Boot", "PostMan"],
+        demoUrl :"#",
+        githubUrl:"#",
+    },
 ]
 
 export const ProjectSection = () =>{
