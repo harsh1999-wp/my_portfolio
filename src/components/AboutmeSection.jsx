@@ -12,11 +12,11 @@ export const AboutmeSection = () => {
                     <div className="space-y-10">
                         <h3 className=" text-white text-2xl font-semibold">Web Developer and ML Enthasiast</h3>
 
-                        <p classname= "text-white font-semibold">
+                       <p className="text-white text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto animate-fade-in-delay-3">
                             I have two years of experience in the technology domain, with a strong foundation in web development, backend engineering, and machine learning. My background includes building and optimizing web applications, developing robust backend services, creating and training machine learning models, and deploying end-to-end solutions. I am proficient in working across the full development lifecycle—from designing system architectures and implementing features to deploying scalable, high-performance applications in production environments.
                         </p>
 
-                        <p classname = "text-white text-bold text-2xl text-muted-foreground">
+                        <p className="text-white text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto animate-fade-in-delay-3">
                         Enthusiastic web development intern skilled in HTML, CSS, and JavaScript.
                         Demonstrated ability to create responsive websites and collaborate effectively on
                         projects. Eager to contribute technical expertise, creativity, and a passion for learning to a
