@@ -36,7 +36,7 @@ const skills = [
   { name: "Git", level: 90, category: "version-control" }
 ];
 
-const categories =["all","programming-language" ,"version-control","api-hosting","database","backend"];
+const categories =["all","programming-language" ,"version-control","api-hosting","database","backend", "Framework"];
 
 export const SkillsSection = () =>{
     const [ActiveCategories , setActiveCategories]= useState("all")
