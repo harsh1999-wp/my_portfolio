@@ -37,7 +37,7 @@ export const Navbar = () =>{
             </a>
 
             {/*Desktop version*/}
-            <div className="hidden md:flex space-x-8">
+            <div className="hidden md:flex flex-col gap-20">
                 { navItems.map((item , key) => (
                     <a
                        key= {key}
